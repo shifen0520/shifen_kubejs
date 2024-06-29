@@ -1,0 +1,9 @@
+[21:49:31] [INFO ] Loaded script startup_scripts:block.js in 0.21 s
+[21:49:31] [INFO ] Hello, World! (You will only see this line once in console, during startup)
+[21:49:31] [INFO ] Loaded script startup_scripts:item.js in 0.018 s
+[21:49:31] [INFO ] Loaded script startup_scripts:jei.js in 0.003 s
+[21:49:31] [INFO ] Hello, World! (You will only see this line once in console, during startup)
+[21:49:31] [INFO ] Loaded script startup_scripts:script.js in 0.001 s
+[21:49:31] [INFO ] Using UnifyTags v1.18
+[21:49:31] [INFO ] Loaded script startup_scripts:unify.js in 0.018 s
+[21:49:31] [INFO ] Loaded 5/5 KubeJS startup scripts in 1.093 s
